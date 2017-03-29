@@ -1,0 +1,6 @@
+E:\Programming Projects\ProektniyPraktikumRepo\ProjectPratcikum\Лабораторна 3\Mediator_BPatern\Mediator_BPatern\bin\Debug\Mediator_BPatern.exe.config
+E:\Programming Projects\ProektniyPraktikumRepo\ProjectPratcikum\Лабораторна 3\Mediator_BPatern\Mediator_BPatern\bin\Debug\Mediator_BPatern.exe
+E:\Programming Projects\ProektniyPraktikumRepo\ProjectPratcikum\Лабораторна 3\Mediator_BPatern\Mediator_BPatern\bin\Debug\Mediator_BPatern.pdb
+E:\Programming Projects\ProektniyPraktikumRepo\ProjectPratcikum\Лабораторна 3\Mediator_BPatern\Mediator_BPatern\obj\Debug\Mediator_BPatern.csprojResolveAssemblyReference.cache
+E:\Programming Projects\ProektniyPraktikumRepo\ProjectPratcikum\Лабораторна 3\Mediator_BPatern\Mediator_BPatern\obj\Debug\Mediator_BPatern.exe
+E:\Programming Projects\ProektniyPraktikumRepo\ProjectPratcikum\Лабораторна 3\Mediator_BPatern\Mediator_BPatern\obj\Debug\Mediator_BPatern.pdb
