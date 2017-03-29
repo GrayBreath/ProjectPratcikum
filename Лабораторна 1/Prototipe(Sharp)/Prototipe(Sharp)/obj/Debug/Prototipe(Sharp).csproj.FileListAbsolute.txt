@@ -1,0 +1,12 @@
+F:\Programming Projects\Prototipe(Sharp)\Prototipe(Sharp)\bin\Debug\Prototipe(Sharp).exe.config
+F:\Programming Projects\Prototipe(Sharp)\Prototipe(Sharp)\obj\Debug\Prototipe(Sharp).csprojResolveAssemblyReference.cache
+F:\Programming Projects\Prototipe(Sharp)\Prototipe(Sharp)\bin\Debug\Prototipe(Sharp).exe
+F:\Programming Projects\Prototipe(Sharp)\Prototipe(Sharp)\bin\Debug\Prototipe(Sharp).pdb
+F:\Programming Projects\Prototipe(Sharp)\Prototipe(Sharp)\obj\Debug\Prototipe(Sharp).exe
+F:\Programming Projects\Prototipe(Sharp)\Prototipe(Sharp)\obj\Debug\Prototipe(Sharp).pdb
+A:\ХПК\Проектний Практикум\Лабораторна 1\Prototipe(Sharp)\Prototipe(Sharp)\bin\Debug\Prototipe(Sharp).exe.config
+A:\ХПК\Проектний Практикум\Лабораторна 1\Prototipe(Sharp)\Prototipe(Sharp)\obj\Debug\Prototipe(Sharp).exe
+A:\ХПК\Проектний Практикум\Лабораторна 1\Prototipe(Sharp)\Prototipe(Sharp)\obj\Debug\Prototipe(Sharp).pdb
+A:\ХПК\Проектний Практикум\Лабораторна 1\Prototipe(Sharp)\Prototipe(Sharp)\bin\Debug\Prototipe(Sharp).exe
+A:\ХПК\Проектний Практикум\Лабораторна 1\Prototipe(Sharp)\Prototipe(Sharp)\bin\Debug\Prototipe(Sharp).pdb
+A:\ХПК\Проектний Практикум\Лабораторна 1\Prototipe(Sharp)\Prototipe(Sharp)\obj\Debug\Prototipe(Sharp).csprojResolveAssemblyReference.cache

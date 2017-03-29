@@ -1,0 +1,6 @@
+D:\Programming Projects\Project Paterns\Spatern_Flyweight\Spatern_Flyweight\bin\Debug\Spatern_Flyweight.exe.config
+D:\Programming Projects\Project Paterns\Spatern_Flyweight\Spatern_Flyweight\bin\Debug\Spatern_Flyweight.exe
+D:\Programming Projects\Project Paterns\Spatern_Flyweight\Spatern_Flyweight\bin\Debug\Spatern_Flyweight.pdb
+D:\Programming Projects\Project Paterns\Spatern_Flyweight\Spatern_Flyweight\obj\Debug\Spatern_Flyweight.csprojResolveAssemblyReference.cache
+D:\Programming Projects\Project Paterns\Spatern_Flyweight\Spatern_Flyweight\obj\Debug\Spatern_Flyweight.exe
+D:\Programming Projects\Project Paterns\Spatern_Flyweight\Spatern_Flyweight\obj\Debug\Spatern_Flyweight.pdb

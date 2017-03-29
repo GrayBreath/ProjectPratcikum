@@ -1,0 +1,6 @@
+E:\Programming Projects\SPaternt_ Fasade\SPaternt_ Fasade\bin\Debug\SPaternt_ Fasade.exe.config
+E:\Programming Projects\SPaternt_ Fasade\SPaternt_ Fasade\bin\Debug\SPaternt_ Fasade.exe
+E:\Programming Projects\SPaternt_ Fasade\SPaternt_ Fasade\bin\Debug\SPaternt_ Fasade.pdb
+E:\Programming Projects\SPaternt_ Fasade\SPaternt_ Fasade\obj\Debug\SPaternt_ Fasade.csprojResolveAssemblyReference.cache
+E:\Programming Projects\SPaternt_ Fasade\SPaternt_ Fasade\obj\Debug\SPaternt_ Fasade.exe
+E:\Programming Projects\SPaternt_ Fasade\SPaternt_ Fasade\obj\Debug\SPaternt_ Fasade.pdb

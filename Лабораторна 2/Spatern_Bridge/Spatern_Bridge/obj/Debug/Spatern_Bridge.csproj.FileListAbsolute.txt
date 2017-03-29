@@ -1,0 +1,11 @@
+E:\Programming Projects\Spatern_Bridge\Spatern_Bridge\bin\Debug\Spatern_Bridge.exe.config
+E:\Programming Projects\Spatern_Bridge\Spatern_Bridge\bin\Debug\Spatern_Bridge.exe
+E:\Programming Projects\Spatern_Bridge\Spatern_Bridge\bin\Debug\Spatern_Bridge.pdb
+E:\Programming Projects\Spatern_Bridge\Spatern_Bridge\obj\Debug\Spatern_Bridge.exe
+E:\Programming Projects\Spatern_Bridge\Spatern_Bridge\obj\Debug\Spatern_Bridge.pdb
+I:\Spatern_Bridge\Spatern_Bridge\bin\Debug\Spatern_Bridge.exe.config
+I:\Spatern_Bridge\Spatern_Bridge\obj\Debug\Spatern_Bridge.exe
+I:\Spatern_Bridge\Spatern_Bridge\obj\Debug\Spatern_Bridge.pdb
+I:\Spatern_Bridge\Spatern_Bridge\bin\Debug\Spatern_Bridge.exe
+I:\Spatern_Bridge\Spatern_Bridge\bin\Debug\Spatern_Bridge.pdb
+I:\Spatern_Bridge\Spatern_Bridge\obj\Debug\Spatern_Bridge.csprojResolveAssemblyReference.cache
