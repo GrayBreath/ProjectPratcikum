@@ -17,13 +17,13 @@ Platform assembly: E:\Programming Projects\ProektniyPraktikumRepo\ProjectPratcik
 Loading E:\Programming Projects\ProektniyPraktikumRepo\ProjectPratcikum\Лабораторна 3\Manachord_BPatern_PaternMethod\PMethod_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: E:\Programming Projects\ProektniyPraktikumRepo\ProjectPratcikum\Лабораторна 3\Manachord_BPatern_PaternMethod\PMethod_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
 Loading E:\Programming Projects\ProektniyPraktikumRepo\ProjectPratcikum\Лабораторна 3\Manachord_BPatern_PaternMethod\PMethod_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.206 seconds
+- Completed reload, in  0.357 seconds
 Platform assembly: E:\Programming Projects\ProektniyPraktikumRepo\ProjectPratcikum\Лабораторна 3\Manachord_BPatern_PaternMethod\PMethod_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: E:\Programming Projects\ProektniyPraktikumRepo\ProjectPratcikum\Лабораторна 3\Manachord_BPatern_PaternMethod\PMethod_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 3600x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 5.874915 ms
+UnloadTime: 47.991810 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 2ba4 -> priority: 1 
+  Thread -> id: 1a7c -> priority: 1 
